@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Ege;Full-Stack %20Developer.;I%20live%20in %20Turkey.;I'm%20high%20school%20student%20and%20self-improvement %20person.&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Ege;Full-Stack %20Developer.;I%20live%20in %20Turkey.;I'm%20high%20school%20student%20and%20self-improvement %20person.&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
-  <a href="https://egee.cf"><img width="32px" alt="My Web Site" title="Buy me a coffee" src="https://i.hizliresim.com/puarq0y.png"/></a>
+  <a href="https://egee.cf"><img width="32px" alt="egee.cf" title="My Web Site" src="https://i.hizliresim.com/puarq0y.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/c/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
