@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/egee0">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ege%20-%20egee0&font=Fira%20Code&center=true&width=200&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="egee0" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ege%20-%20egee0&font=Fira%20Code&center=true&width=200&height=45&color=ffd700&vCenter=true&pause=1000&size=22" alt="egee0" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Ege;Full-Stack %20Developer.;I%20live%20in %20Turkey.;I'm%20high%20school%20student%20and%20self-improvement %20person.&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Ege;Full-Stack %20Developer.;I%20live%20in %20Turkey.;I'm%20high%20school%20student%20and%20self-improvement %20person.&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
