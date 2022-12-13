@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/egee0">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Ege;Full-Stack %20Developer.;I%20live%20in %20Turkey.;I'm%20high%20school%20student%20and%20self-improvement %20person.&font=Fira%20Code&center=true&width=680&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
