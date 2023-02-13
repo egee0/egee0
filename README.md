@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://egee.cf"><img width="32px" alt="egee.cf" title="My Web Site" src="https://i.hizliresim.com/puarq0y.png"/></a>
+  <a href="https://egee.me"><img width="32px" alt="egee.me" title="My Web Site" src="https://i.hizliresim.com/puarq0y.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/c/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://instagram.com/egee0official"><img width="32px" alt="Instagram" title="Instagram" src="https://i.hizliresim.com/jyx8dyh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/egee0official"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/950425765151907921" alt="Discord" title="My Discord Profile"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
